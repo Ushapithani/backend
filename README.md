@@ -1,4 +1,3 @@
-Here is your README in the same format as the image — with emojis and headings:
 
 ---
 
@@ -167,6 +166,7 @@ Sample Response:
 
 ---
 
-## 🏁 Final Year Project
+## 🏁 Project
 
 This project is built as an AI-Based Career Recommendation System using ML. Suitable for Final Year Project, Hackathon, and Portfolio.
+
